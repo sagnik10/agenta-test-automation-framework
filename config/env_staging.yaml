@@ -1,0 +1,6 @@
+urls:
+  login_page: "https://staging.portal.com/login"
+
+credentials:
+  user: "stg_user"
+  password: "stg_password"

@@ -1,0 +1,18 @@
+urls:
+  login: "https://practicetestautomation.com/practice-test-login/"
+  dashboard: "https://practicetestautomation.com/dashboard/"
+
+credentials:
+  user: "student"
+  password: "Password123"
+
+timeouts:
+  implicit: 5
+  explicit: 60
+
+retries:
+  step_retry: 3
+  test_retry: 2
+
+app:
+  name: "Agentra Automation"

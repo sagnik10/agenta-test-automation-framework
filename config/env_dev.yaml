@@ -1,0 +1,7 @@
+urls:
+  login_page: "https://dev.portal.com/login"
+  dashboard: "https://dev.portal.com/dashboard"
+
+credentials:
+  user: "dev_user"
+  password: "dev_password123"

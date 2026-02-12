@@ -1,0 +1,21 @@
+{
+  "login": {
+    "valid": {
+      "username": "student",
+      "password": "Password123"
+    },
+    "invalid": {
+      "username": "wrong_user",
+      "password": "wrong_pass"
+    }
+  },
+  "promoCode": {
+    "validCodes": [
+      { "code": "HP2024", "months": 3 },
+      { "code": "INKFREE", "months": 2 }
+    ],
+    "invalidCodes": [
+      { "code": "XYZ123" }
+    ]
+  }
+}

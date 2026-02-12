@@ -1,0 +1,12 @@
+selenium
+Appium-Python-Client
+pytest
+pytest-xdist
+requests
+pandas
+allure-pytest
+pywinauto
+pyautogui
+psutil
+PyYAML
+beautifulsoup4
